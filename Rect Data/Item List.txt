@@ -1,0 +1,154 @@
+Raw Meat
+Raw Ham
+Cooked T-Bone
+Roasted Chicken
+Shish Kebab
+Chicken Drumstick
+Raw Fish
+Canned Sardines
+Canned Tuna
+Sushi
+Sashimi
+Jug of Milk
+Milk Carton
+Cheese
+Bread Loaf
+Croissant
+Assorted Pastries
+Assorted Donut
+Cake
+Popsicle
+Vanilla Popsicle
+Ice Cream Sandwich
+Orange Soft-Serve
+Chocolate Soft-Serve
+Vanilla Soft-Serve
+Strawberry Soft-Serve
+Assorted Nuts
+Peanut Butter
+Nutella
+Honey
+Cereal
+Mayonaise
+Ketchup
+Salsa
+Mustard
+Ketchup
+Sour Cream
+Potatoes
+Mushrooms
+Cucumbers
+Corn
+Cauliflower
+Turnips
+Yellow Bell Pepper 
+Red Bell Pepper
+Eggplant
+Zucchini
+Onion
+Scallion
+Watermelon
+Sliced Watermelon
+Tomato
+Carrots
+Cabbages
+Broccoli
+Bananas
+Apples
+Oranges
+Lemons
+Pears
+Paintings
+Cotton Living Room
+Beds
+Leather Living Room
+Alphabet Blocks
+Toy Horse
+Toy Ducks
+Hand Puppets
+Childrens' Music
+Toms
+Converse
+Sneakers
+Vans
+Red Shirt
+White Shirt 
+Blue Shirt 
+Green Shirt 
+Yellow Shirt 
+Light Grey Pants 
+Dark Blue Pants 
+Black Pants 
+Dark Grey Pants
+Brown Pants
+White Dress-Shirt
+Green Dress-Shirt
+Orange Dress-Shirt
+Blue Dress-Shirt
+Purple Dress-Shirt
+Hat
+Gloves
+Satchel
+Belt
+Wallet
+Book
+Cellphone
+Laptop
+Plasma-Screen TV
+Camera
+Coca Cola 
+Sprite
+Diet 7-UP
+Diet Coca Cola
+7-UP
+Pepsi
+Mango Juice
+Straw/Ban Juice
+Pomegranite Juice
+Energy Drink
+Water
+Iron
+Dustpan
+Mop Bucket
+Kitchen Sponge
+Kleenex Box
+Mop
+Vacuum
+Glass Cleaner
+Cleaner
+All-Purpose Cleaner
+Clorox
+Toilet Cleaner
+Dish Soap
+Cheer Detergent 
+Tide Detergent
+Downy Softner
+ToothBrush
+MouthWash
+Toothpaste
+Teeth Floss
+Razors
+Shaving Cream
+Hair Brush
+Hair Dryer
+Shampoo
+Shower Loofa
+Soap
+Towels
+Toilet Paper
+Microwave Oven
+Rice Cooker
+Kettle
+Blender
+Electronic Wisk
+Food Proccesor
+Coffee Pot
+Butter Knife
+Cleaver Knife
+Kitchen Knife
+Cake Knife
+Measuring Cup
+Scale
+Cutting Board
+Ladle
+Spatula
